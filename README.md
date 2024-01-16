@@ -11,3 +11,13 @@ If you wish to consult the calculations, a PDF document with all the calculation
 To check the correct operation of the circuit, simulations were carried out in LTSpice. As the one shown below where I try to obtain a gain of 10 at a voltage of 0.5 Volts.
 
 ![image](https://github.com/ricardo-ugalde-tinoco/PID-Controller-with-Operational-Amplifiers./assets/154283114/49e2dd0b-9fc9-4ee1-8ecf-9068d9ef3933)
+
+In the project scheme I wrote down all the formulas needed to find the value of each of the resistors and components used in the conventional notation of the diagrams.
+As shown in the following image.
+
+![image](https://github.com/ricardo-ugalde-tinoco/PID-Controller-with-Operational-Amplifiers./assets/154283114/218c16be-2180-408c-8861-cae0c12ad077)
+
+This practice is very useful to describe more precisely your connections and the sequence to develop your circuit.
+
+Model of the completed PCB.
+

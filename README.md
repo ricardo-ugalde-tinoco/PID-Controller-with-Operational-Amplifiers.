@@ -21,3 +21,4 @@ This practice is very useful to describe more precisely your connections and the
 
 Model of the completed PCB.
 
+![image](https://github.com/ricardo-ugalde-tinoco/PID-Controller-with-Operational-Amplifiers./assets/154283114/f5f40440-fb01-4b4c-9da7-4a98dade4c43)
